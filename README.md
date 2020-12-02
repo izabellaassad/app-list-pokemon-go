@@ -1,5 +1,5 @@
 
-Simples aplicação de estudo utilizando React utilizando a api do pokemon Go para listar os pokemons. 
+Simples aplicação de estudo utilizando React e API  do pokemon Go para listar os pokemons. 
 
 Este projeto foi inicializado com  [Create React App](https://github.com/facebook/create-react-app).
 
